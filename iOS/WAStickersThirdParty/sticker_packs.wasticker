@@ -1,0 +1,55 @@
+{
+    "ios_app_store_link" : "",
+    "android_play_store_link" : "",
+    "sticker_packs" : [
+    {
+        "identifier": "MaluzinhaStickerPack",
+        "name": "Malu Stickers",
+        "publisher": "Dinho",
+        "tray_image_file" : "tray_Malu.png",
+        "publisher_website" : "",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+            "image_file": "malu-come-on.png",
+            "emojis": ["😐"]
+        },
+        {
+            "image_file": "malu-laugh.png",
+            "emojis": ["😀"]
+        },
+        {
+            "image_file": "malu-lmao.png",
+            "emojis": ["🤣"]
+        },
+        {
+            "image_file": "malu-lol.png",
+            "emojis": ["😄"]
+        },
+        {
+            "image_file": "malu-my-heart.png",
+            "emojis": ["😍"]
+        },
+        {
+            "image_file": "malu-not-impressed.png",
+            "emojis": ["😑"]
+        },
+        {
+            "image_file": "malu-sad.png",
+            "emojis": ["🙁","☹"]
+        },
+        {
+            "image_file": "malu-sassy.png",
+            "emojis": ["🌝"]
+        },
+        {
+            "image_file": "malu-welp.png",
+            "emojis": ["💁‍♂","💁‍♀"]
+        },
+        {
+            "image_file": "malu-you-didnt.png",
+            "emojis": ["😧"]
+        }]
+    }]
+}
